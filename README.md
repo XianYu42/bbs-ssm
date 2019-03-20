@@ -40,7 +40,9 @@
 
 > ### 启动项目
 >
-> ![](picture/run.png)可以正常访问与操作了...真好
+> ![](picture/run.png)
+>
+> 可以正常访问与操作了...真好
 
 ## 技术栈
 > **spring** 、**springmvc** 、**mybatis** 、**mysql** 、**ajax** 、**jquery** 、**bootstrap**
